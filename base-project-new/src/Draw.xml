@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<UI>
+<Window>
+<Menu>
+<Menu-Item/>
+<Menu-Item/>
+<Menu-Item/>
+</Menu>
+</Window>
+<Window>
+<Menu>
+<Menu-Item/>
+</Menu>
+</Window>
+<Window>
+<UI-Area>
+<TR>
+<TD/>
+</TR>
+</UI-Area>
+</Window>
+<Window/>
+<Window/>
+</UI>
